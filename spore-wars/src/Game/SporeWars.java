@@ -1,4 +1,5 @@
 package Game;
-import com.github.hanyaeger.api.Yaegergame;
+import game.Yaeger;
 public class SporeWars extends YaegerGame{
+
 }
